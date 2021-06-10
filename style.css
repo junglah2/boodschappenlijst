@@ -1,0 +1,24 @@
+* {
+  font-family: sans-serif;
+}
+
+TABLE {
+    border-collapse: collapse;
+}
+THEAD TD {
+  /*font-weight:bold; TEST*/
+  text-align: left;
+}
+TD {
+    border: 1px solid #888;
+}
+
+.productPrice{
+  text-align: right;
+}
+.productTotalCost{
+    text-align: right;
+}
+#totalCost{
+    text-align: right;
+}
